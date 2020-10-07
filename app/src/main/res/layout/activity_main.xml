@@ -23,9 +23,9 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="36dp"
-        android:layout_marginStart="160dp"
-        android:layout_marginLeft="160dp"
-        android:layout_marginTop="324dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginLeft="164dp"
+        android:layout_marginTop="380dp"
         android:text="@string/button_send"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
